@@ -263,3 +263,27 @@ Popular Ad/Tracking Services
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
+SOPHOS
+0.0.0.0 telemetry.sophos.com
+0.0.0.0 sophosupd.com
+0.0.0.0 sophosupd.net
+0.0.0.0 sophosxl.net
+0.0.0.0 sophosxl.com
+0.0.0.0 sophoslive.net
+0.0.0.0 sophoslive.com
+0.0.0.0 sophosqa.com
+0.0.0.0 sophos-stats.com
+0.0.0.0 analytics.sophosxl.com
+0.0.0.0 cloud.sophos.com
+0.0.0.0 status.sophos.com
+0.0.0.0 sam.sophos.com
+0.0.0.0 dnslookup.sophos.com
+0.0.0.0 t.sophos.com
+0.0.0.0 sdu.sophos.com
+0.0.0.0 mcs.sophos.com
+0.0.0.0 feedback.sophos.com
+0.0.0.0 sophoscdn.com
+0.0.0.0 cdn.sophosxl.com
+0.0.0.0 tdss.sophosxl.com
+0.0.0.0 cloud-content.sophos.com
+0.0.0.0 heartbeat.sophos.com
