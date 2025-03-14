@@ -5,6 +5,7 @@ Google Ad Services
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 click.googleanalytics.com
 0.0.0.0 analytics.google.com
 0.0.0.0 ads.google.com
 0.0.0.0 googleadservices.com
@@ -173,6 +174,8 @@ Yahoo Ads
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 adtech.yahooinc.com
 Unity Ads
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
@@ -297,6 +300,20 @@ Additional Popular Ad/Tracking Services
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
+Bugsnag Analytics
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+Sentry Analytics
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+TikTok Ads
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 log.byteoversea.com
 Other Ad Domains & Trackers
 0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 d3ithbwcmjfdg9.cloudfront.net
