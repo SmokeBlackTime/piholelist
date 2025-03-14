@@ -1,10 +1,3 @@
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
-
 Google Ad Services
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 adservice.google.com
@@ -21,6 +14,8 @@ Google Ad Services
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 static.googleadsserving.cn
+0.0.0.0 csi.gstatic.com
+0.0.0.0 id.google.com
 DoubleClick (Google)
 0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
@@ -56,7 +51,8 @@ Amazon Ads
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 advertising-api-eu.amazon.com
-Microsoft Advertising
+0.0.0.0 github-cloud.s3.amazonaws.com
+Microsoft Advertising and Telemetry
 0.0.0.0 ad.msn.com
 0.0.0.0 ads.msn.com
 0.0.0.0 rad.msn.com
@@ -69,6 +65,20 @@ Microsoft Advertising
 0.0.0.0 analytics.msn.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 self-events-data.trafficmanager.net
+0.0.0.0 onedscolprdeus05.eastus.cloudapp.azure.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 wns.windows.com
+0.0.0.0 continuum.dds.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
 Twitter/X Ads
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 advertising.twitter.com
@@ -151,6 +161,9 @@ Yandex Ads
 0.0.0.0 yabs.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 metrika.yandex.ru
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 certificate.mobile.yandex.net
 Yahoo Ads
 0.0.0.0 ads.yahoo.com
 0.0.0.0 analytics.yahoo.com
@@ -159,12 +172,59 @@ Yahoo Ads
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
 Unity Ads
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
+GitHub & Developer Tracking
+0.0.0.0 collector.github.com
+0.0.0.0 api.github.com
+Apple Analytics & Telemetry
+0.0.0.0 time.g.aaplimg.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 api.apple-cloudkit.com
+0.0.0.0 api.apple-cloudkit.fe2.apple-dns.net
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 dzc-metrics.mzstatic.com
+Adobe Tracking
+0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 adobe.demdex.net
+0.0.0.0 dpm.demdex.net
+0.0.0.0 cc-cdn.adobe.com
+0.0.0.0 metrics.adobe.com
+0.0.0.0 analytics.adobe.com
+Sophos Related Domains
+0.0.0.0 telemetry.sophos.com
+0.0.0.0 sophosupd.com
+0.0.0.0 sophosupd.net
+0.0.0.0 sophosxl.net
+0.0.0.0 sophosxl.com
+0.0.0.0 sophoslive.net
+0.0.0.0 sophoslive.com
+0.0.0.0 sophosqa.com
+0.0.0.0 sophos-stats.com
+0.0.0.0 analytics.sophosxl.com
+0.0.0.0 cloud.sophos.com
+0.0.0.0 status.sophos.com
+0.0.0.0 sam.sophos.com
+0.0.0.0 dnslookup.sophos.com
+0.0.0.0 t.sophos.com
+0.0.0.0 sdu.sophos.com
+0.0.0.0 mcs.sophos.com
+0.0.0.0 feedback.sophos.com
+0.0.0.0 sophoscdn.com
+0.0.0.0 cdn.sophosxl.com
+0.0.0.0 tdss.sophosxl.com
+0.0.0.0 cloud-content.sophos.com
+0.0.0.0 heartbeat.sophos.com
+0.0.0.0 dzr-api-amzn-eu-west-1-9af7.api-upe.p.hmr.sophos.com
 General Ad Networks and Trackers
 0.0.0.0 adcolony.com
 0.0.0.0 ads.adcolony.com
@@ -194,6 +254,9 @@ General Ad Networks and Trackers
 0.0.0.0 metrics3.data.hicloud.com
 0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 logger.cloudmobi.net
+0.0.0.0 sync.adotmob.com
 Popular Trackers & Analytics
 0.0.0.0 track.adj.st
 0.0.0.0 app.adjust.com
@@ -215,36 +278,7 @@ Popular Trackers & Analytics
 0.0.0.0 analytics.plex.tv
 0.0.0.0 ping.plex.tv
 0.0.0.0 metrics.plex.tv
-0.0.0.0 analytics-api.samsunghealthcn.com
-Additional Popular Ad Domains
-0.0.0.0 widgets.sprinklecontent.com
-0.0.0.0 d3ithbwcmjfdg9.cloudfront.net
-0.0.0.0 ad-delivery.net
-0.0.0.0 adrta.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.yap.yahoo.com
-0.0.0.0 adtech.com
-0.0.0.0 advertising.com
-0.0.0.0 banner.linksynergy.com
-0.0.0.0 clickserve.dartsearch.net
-0.0.0.0 consent.cmp.oath.com
-0.0.0.0 csi.gstatic.com
-0.0.0.0 dl.dropboxusercontent.com
-0.0.0.0 effectivemeasure.net
-0.0.0.0 id.google.com
-0.0.0.0 insight.adsrvr.org
-0.0.0.0 mediacdn.disqus.com
-0.0.0.0 pm.w55c.net
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 syndication.exosrv.com
-Popular In-App Ads
-0.0.0.0 startup.mobile.yandex.net
-0.0.0.0 startup.mobile.webvisor.com
-0.0.0.0 certificate.mobile.yandex.net
-0.0.0.0 analytics-api.samsunghealthcn.com
-0.0.0.0 logger.cloudmobi.net
-0.0.0.0 sync.adotmob.com
-Popular Ad/Tracking Services
+Additional Popular Ad/Tracking Services
 0.0.0.0 static.hotjar.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 vars.hotjar.com
@@ -263,27 +297,19 @@ Popular Ad/Tracking Services
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf6-ttcdn-tos.pstatp.com
-SOPHOS
-0.0.0.0 telemetry.sophos.com
-0.0.0.0 sophosupd.com
-0.0.0.0 sophosupd.net
-0.0.0.0 sophosxl.net
-0.0.0.0 sophosxl.com
-0.0.0.0 sophoslive.net
-0.0.0.0 sophoslive.com
-0.0.0.0 sophosqa.com
-0.0.0.0 sophos-stats.com
-0.0.0.0 analytics.sophosxl.com
-0.0.0.0 cloud.sophos.com
-0.0.0.0 status.sophos.com
-0.0.0.0 sam.sophos.com
-0.0.0.0 dnslookup.sophos.com
-0.0.0.0 t.sophos.com
-0.0.0.0 sdu.sophos.com
-0.0.0.0 mcs.sophos.com
-0.0.0.0 feedback.sophos.com
-0.0.0.0 sophoscdn.com
-0.0.0.0 cdn.sophosxl.com
-0.0.0.0 tdss.sophosxl.com
-0.0.0.0 cloud-content.sophos.com
-0.0.0.0 heartbeat.sophos.com
+Other Ad Domains & Trackers
+0.0.0.0 widgets.sprinklecontent.com
+0.0.0.0 d3ithbwcmjfdg9.cloudfront.net
+0.0.0.0 ad-delivery.net
+0.0.0.0 adrta.com
+0.0.0.0 adtech.com
+0.0.0.0 advertising.com
+0.0.0.0 banner.linksynergy.com
+0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 dl.dropboxusercontent.com
+0.0.0.0 effectivemeasure.net
+0.0.0.0 insight.adsrvr.org
+0.0.0.0 mediacdn.disqus.com
+0.0.0.0 pm.w55c.net
+0.0.0.0 syndication.exosrv.com
